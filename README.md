@@ -1,4 +1,4 @@
-# Predicting-chances-of-diseases-using-R
+# Predicting Probability of Developing Diseases
 
 For my summer internship, I worked on a project where I had to predict the probability of developing a disease for an individual. I have used the healthcareai library package on R for this problem. I have also used a ggplot to visualize the data. Here, I am predicting the probability of 3 diseases for each individual. The diseases are Diabetes, Hypertension, and Coronary Heart Disease. I have uploaded a short code of my work as the work was confidential.
 
